@@ -1,4 +1,4 @@
-# Hi, I'm Psyche 👋
+# Hi, I'm Sonaf ur Rehman 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Penetration+Tester;Red+Team+Enthusiast;Detection+Engineer;Threat+Intelligence+Explorer;Attacker-Aware+Defense;AI+in+Cybersecurity" />

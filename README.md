@@ -7,7 +7,7 @@
 ---
 
 ### About Me
-I’m a cybersecurity student exploring security **end-to-end** — from penetration testing and adversary techniques to blue team detection, threat intelligence, attacker-aware defense, and **AI-assisted cybersecurity**.  
+I’m a cybersecurity student exploring security **end-to-end**, from penetration testing and adversary techniques to blue team detection, threat intelligence, attacker-aware defense, and **AI-assisted cybersecurity**.  
 
 - 🛡️ Focused on **SOC-style detection engineering** & log analysis  
 - 🔴 Passionate about **red team techniques and penetration testing**  

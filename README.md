@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Sonaf ur Rehman 👋
 
-<!--
-**Psyche919/psyche919** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Penetration+Tester;Red+Team+Enthusiast;Detection+Engineer;Threat+Intelligence+Explorer;Attacker-Aware+Defense" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+I’m a cybersecurity student exploring security **end-to-end** — from penetration testing and adversary techniques to blue team detection, threat intelligence, and attacker-aware defense.  
+
+- 🛡️ Focused on **SOC-style detection engineering** & log analysis  
+- 🔴 Passionate about **red team techniques and penetration testing**  
+- 🧠 Building **threat intelligence integration** & MITRE ATT&CK knowledge  
+- ⚡ Simulating **attacker behavior** to validate defenses  
